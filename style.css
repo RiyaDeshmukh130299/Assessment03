@@ -80,7 +80,7 @@ footer {
 #head{
   text-align: center;
   margin-top: 55px;
-  background-color: rgb(58, 102, 62);
+  background-color: rgb(36 103 112);
   padding: 10px 10px;
 }
 
@@ -96,7 +96,7 @@ footer {
 button {
   padding: 10px 70px;
   border-radius: 25px;
-  background-color: rgb(67, 156, 16);
+  background-color: rgb(36 103 112);
   border: 2px solid black;
   color: black;
   font-size: 15px;
